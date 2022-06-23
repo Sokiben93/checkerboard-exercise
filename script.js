@@ -1,4 +1,4 @@
-var body = document.body;
+var body = document.body; // Create body to access the property of the document object.
 console.log(body);
 for (var i = 0; i < 63; i++) {
   var div = document.createElement("div");
